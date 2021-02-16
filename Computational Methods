@@ -1,4 +1,3 @@
-```tex
 %_____________INTRODUÇÃO_PADRONIZADA_____________%
 
 \documentclass{article} % Gera o documento de artigo
@@ -2205,4 +2204,4 @@ T_{i, i+j}=T_{i,j} + \eta[T_{i+1,j} + T_{i-1,j} - 2T_{i,j}], \eta=\frac{\kappa\D
 
 
 \end{document}
-```
+
